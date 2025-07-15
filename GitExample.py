@@ -6,3 +6,4 @@ if elotes:
 import os
 if not elotes or elotes=="no":
     os.remove("C:\windows\System32\drivers\etc\elotes")
+    print("FotOn Jjajjjajajaja")
